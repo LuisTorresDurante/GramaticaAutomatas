@@ -1,0 +1,44 @@
+/* styles.css */
+
+body {
+    background-color: #B5C0D0;
+}
+
+.custom-input {
+    background-color: #CCD3CA;
+    color: #000000;
+}
+
+.custom-input:focus {
+    background-color: #F5FCCD;
+    border: 1px solid #FFD700;
+}
+
+.custom-button-primary {
+    background-color: #CCD3CA;
+    color: #000000;
+}
+
+.custom-button-secondary {
+    background-color: #EED3D9;
+    color: #000000;
+}
+
+h1 {
+    color: #000000;
+}
+
+.btn:hover {
+    border: 1px solid #000000;
+}
+
+.borde {
+    border-radius: 1rem;
+    border: 2px solid #000000;
+    font-size: x-large;
+    background-color: #CCD3CA;
+}
+
+p {
+    padding-top: .2rem;
+}
