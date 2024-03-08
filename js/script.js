@@ -106,7 +106,7 @@ function insertarLambda() {
 
 function insertarSigma() {
     var nuevaRegla = document.getElementById("nuevaRegla");
-    nuevaRegla.value += 'Σ';
+    nuevaRegla.value += 'Σ->';
 }
 function borrarTodasLasLineas() {
     var listaReglasElaboradas = document.getElementById("listaReglasElaboradas");
